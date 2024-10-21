@@ -1,0 +1,13 @@
+venv/
+
+*__pycache__/
+
+reporting_config.json
+
+*.db
+
+*.log
+
+token_.py
+
+systemd/

@@ -1,0 +1,1 @@
+from .config import get_bot_reporter_token, get_dev_tg_id, get_report_chat_id
